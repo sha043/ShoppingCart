@@ -1,0 +1,15 @@
+C:\Users\SHANOJ\Desktop\ShoppingCartSample\ShoppingCart\ShoppingCart.Data.Contracts\bin\Debug\net6.0\ShoppingCart.Data.Contracts.deps.json
+C:\Users\SHANOJ\Desktop\ShoppingCartSample\ShoppingCart\ShoppingCart.Data.Contracts\bin\Debug\net6.0\ShoppingCart.Data.Contracts.dll
+C:\Users\SHANOJ\Desktop\ShoppingCartSample\ShoppingCart\ShoppingCart.Data.Contracts\bin\Debug\net6.0\ShoppingCart.Data.Contracts.pdb
+C:\Users\SHANOJ\Desktop\ShoppingCartSample\ShoppingCart\ShoppingCart.Data.Contracts\bin\Debug\net6.0\ShoppingCart.Entities.dll
+C:\Users\SHANOJ\Desktop\ShoppingCartSample\ShoppingCart\ShoppingCart.Data.Contracts\bin\Debug\net6.0\ShoppingCart.Entities.pdb
+C:\Users\SHANOJ\Desktop\ShoppingCartSample\ShoppingCart\ShoppingCart.Data.Contracts\obj\Debug\net6.0\ShoppingCart.Data.Contracts.csproj.AssemblyReference.cache
+C:\Users\SHANOJ\Desktop\ShoppingCartSample\ShoppingCart\ShoppingCart.Data.Contracts\obj\Debug\net6.0\ShoppingCart.Data.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHANOJ\Desktop\ShoppingCartSample\ShoppingCart\ShoppingCart.Data.Contracts\obj\Debug\net6.0\ShoppingCart.Data.Contracts.AssemblyInfoInputs.cache
+C:\Users\SHANOJ\Desktop\ShoppingCartSample\ShoppingCart\ShoppingCart.Data.Contracts\obj\Debug\net6.0\ShoppingCart.Data.Contracts.AssemblyInfo.cs
+C:\Users\SHANOJ\Desktop\ShoppingCartSample\ShoppingCart\ShoppingCart.Data.Contracts\obj\Debug\net6.0\ShoppingCart.Data.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\SHANOJ\Desktop\ShoppingCartSample\ShoppingCart\ShoppingCart.Data.Contracts\obj\Debug\net6.0\ShoppingCart.Data.Contracts.csproj.CopyComplete
+C:\Users\SHANOJ\Desktop\ShoppingCartSample\ShoppingCart\ShoppingCart.Data.Contracts\obj\Debug\net6.0\ShoppingCart.Data.Contracts.dll
+C:\Users\SHANOJ\Desktop\ShoppingCartSample\ShoppingCart\ShoppingCart.Data.Contracts\obj\Debug\net6.0\refint\ShoppingCart.Data.Contracts.dll
+C:\Users\SHANOJ\Desktop\ShoppingCartSample\ShoppingCart\ShoppingCart.Data.Contracts\obj\Debug\net6.0\ShoppingCart.Data.Contracts.pdb
+C:\Users\SHANOJ\Desktop\ShoppingCartSample\ShoppingCart\ShoppingCart.Data.Contracts\obj\Debug\net6.0\ref\ShoppingCart.Data.Contracts.dll

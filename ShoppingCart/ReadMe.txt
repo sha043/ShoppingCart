@@ -1,0 +1,1 @@
+I have developed this application using .NET core 6.0 framework in Visual Studio 2022 Community Edition. I have tried to implement this using cqrs with Mediatr pattern. Please not that this application uses the in-memmory database context with few data seeded to the entities as part of startup.
